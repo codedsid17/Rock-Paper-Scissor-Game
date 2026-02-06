@@ -19,7 +19,8 @@ HTML • CSS • JavaScript
 
 ---
 
-## 🚀 LIVE DEMO
+## 🚀 How to Run
+Open `index.html` in any modern browser and start playing.
 
 ---
 
